@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-28T15:58:22 IST" name="Suite" finished-at="2026-01-28T15:58:35 IST" duration-ms="13075">
+    <groups>
+      <group name="Master">
+        <method signature="RegistrationTest.verify_account_registration()[pri:0, instance:testcases.RegistrationTest@4b45dcb8]" name="verify_account_registration" class="testcases.RegistrationTest"/>
+        <method signature="logintestcase.verify_logintest()[pri:0, instance:testcases.logintestcase@50ecde95]" name="verify_logintest" class="testcases.logintestcase"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="logintestcase.verify_logintest()[pri:0, instance:testcases.logintestcase@50ecde95]" name="verify_logintest" class="testcases.logintestcase"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="RegistrationTest.verify_account_registration()[pri:0, instance:testcases.RegistrationTest@4b45dcb8]" name="verify_account_registration" class="testcases.RegistrationTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2026-01-28T15:58:22 IST" name="Test" finished-at="2026-01-28T15:58:35 IST" duration-ms="13075">
+      <class name="testcases.logintestcase">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.logintestcase@50ecde95]" started-at="2026-01-28T15:58:31 IST" name="setup" finished-at="2026-01-28T15:58:33 IST" duration-ms="2498" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_logintest()[pri:0, instance:testcases.logintestcase@50ecde95]" started-at="2026-01-28T15:58:33 IST" name="verify_logintest" finished-at="2026-01-28T15:58:35 IST" duration-ms="2141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_logintest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.logintestcase@50ecde95]" started-at="2026-01-28T15:58:35 IST" name="teardown" finished-at="2026-01-28T15:58:35 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.logintestcase -->
+      <class name="testcases.RegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.RegistrationTest@4b45dcb8]" started-at="2026-01-28T15:58:23 IST" name="setup" finished-at="2026-01-28T15:58:27 IST" duration-ms="3876" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_account_registration()[pri:0, instance:testcases.RegistrationTest@4b45dcb8]" started-at="2026-01-28T15:58:27 IST" name="verify_account_registration" finished-at="2026-01-28T15:58:30 IST" duration-ms="3535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_account_registration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.RegistrationTest@4b45dcb8]" started-at="2026-01-28T15:58:30 IST" name="teardown" finished-at="2026-01-28T15:58:31 IST" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.RegistrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

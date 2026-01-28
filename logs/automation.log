@@ -1,0 +1,36 @@
+2026-01-28 15:02:25 INFO  RegistrationTest:16 - _______________test started_______________
+2026-01-28 15:02:26 INFO  RegistrationTest:20 - _______________clicked on my account btn_______________
+2026-01-28 15:02:27 INFO  RegistrationTest:23 - _______________clicked on registration_______________
+2026-01-28 15:02:27 INFO  RegistrationTest:26 - _______________entering details_______________
+2026-01-28 15:02:30 INFO  RegistrationTest:40 - _______________test passed and account created_______________
+2026-01-28 15:02:34 INFO  logintestcase:14 - **********Starting the testcase**************
+2026-01-28 15:02:35 INFO  logintestcase:20 - clicked on login btn
+2026-01-28 15:02:35 INFO  logintestcase:24 - login page opened enetering the details
+2026-01-28 15:02:36 INFO  logintestcase:34 - *************test passed****************
+2026-01-28 15:47:02 INFO  RegistrationTest:16 - _______________test started_______________
+2026-01-28 15:47:02 INFO  RegistrationTest:20 - _______________clicked on my account btn_______________
+2026-01-28 15:47:03 INFO  RegistrationTest:23 - _______________clicked on registration_______________
+2026-01-28 15:47:03 INFO  RegistrationTest:26 - _______________entering details_______________
+2026-01-28 15:47:05 INFO  RegistrationTest:40 - _______________test passed and account created_______________
+2026-01-28 15:47:08 INFO  logintestcase:14 - **********Starting the testcase**************
+2026-01-28 15:47:09 INFO  logintestcase:20 - clicked on login btn
+2026-01-28 15:47:09 INFO  logintestcase:24 - login page opened enetering the details
+2026-01-28 15:47:10 INFO  logintestcase:34 - *************test passed****************
+2026-01-28 15:48:33 INFO  RegistrationTest:16 - _______________test started_______________
+2026-01-28 15:48:33 INFO  RegistrationTest:20 - _______________clicked on my account btn_______________
+2026-01-28 15:48:34 INFO  RegistrationTest:23 - _______________clicked on registration_______________
+2026-01-28 15:48:34 INFO  RegistrationTest:26 - _______________entering details_______________
+2026-01-28 15:48:37 INFO  RegistrationTest:40 - _______________test passed and account created_______________
+2026-01-28 15:48:41 INFO  logintestcase:14 - **********Starting the testcase**************
+2026-01-28 15:48:42 INFO  logintestcase:20 - clicked on login btn
+2026-01-28 15:48:42 INFO  logintestcase:24 - login page opened enetering the details
+2026-01-28 15:48:43 INFO  logintestcase:34 - *************test passed****************
+2026-01-28 15:58:27 INFO  RegistrationTest:16 - _______________test started_______________
+2026-01-28 15:58:27 INFO  RegistrationTest:20 - _______________clicked on my account btn_______________
+2026-01-28 15:58:28 INFO  RegistrationTest:23 - _______________clicked on registration_______________
+2026-01-28 15:58:28 INFO  RegistrationTest:26 - _______________entering details_______________
+2026-01-28 15:58:30 INFO  RegistrationTest:40 - _______________test passed and account created_______________
+2026-01-28 15:58:33 INFO  logintestcase:14 - **********Starting the testcase**************
+2026-01-28 15:58:34 INFO  logintestcase:20 - clicked on login btn
+2026-01-28 15:58:34 INFO  logintestcase:24 - login page opened enetering the details
+2026-01-28 15:58:35 INFO  logintestcase:34 - *************test passed****************
